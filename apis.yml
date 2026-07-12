@@ -23,10 +23,18 @@ apis:
       - type: Documentation
         url: https://www.contentful.com/developers/docs/references/images-api/
 common:
+  - type: TrustCenter
+    url: security/contentful-images-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/contentful-images-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/contentful-images-domain-security.yml
   - type: Website
     url: https://www.contentful.com/developers/docs/references/images-api/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.contentful.com/blog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
