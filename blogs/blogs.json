@@ -2,13 +2,20 @@
   "repo": "contentful-images",
   "feeds": [
     {
+      "source": "https://www.contentful.com/blog/feed.xml",
+      "feed_url": "https://www.contentful.com/blog/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.contentful.com/blog/",
       "feed_url": "https://www.contentful.com/blog/feed.xml",
       "title": "",
-      "saved": 2,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "fetched": "2026-07-11T11:50:51Z",
-  "post_count": 14
+  "fetched": "2026-08-01T15:49:00Z",
+  "post_count": 31
 }
